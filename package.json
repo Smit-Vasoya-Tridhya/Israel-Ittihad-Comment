@@ -30,7 +30,6 @@
     "@nestjs/mongoose": "^10.0.1",
     "@nestjs/passport": "^10.0.2",
     "@nestjs/platform-express": "^10.2.4",
-    "@nestjs/platform-socket.io": "^10.2.6",
     "@nestjs/schedule": "^3.0.4",
     "@nestjs/serve-static": "^4.0.0",
     "@nestjs/swagger": "^7.1.10",
@@ -54,7 +53,6 @@
     "passport-google-oauth20": "^2.0.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.1",
-    "socket.io": "^4.7.2",
     "swagger-ui-express": "^5.0.0",
     "xlsx": "^0.18.5"
   },
